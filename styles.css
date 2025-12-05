@@ -1,11 +1,11 @@
 /* Общие стили */
 body {
-    font-family: "Montserrat", sans-serif;
+    font-family: 'Montserrat', sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
     background-color: #f4f7f9;
-    color: #333;
+    color: #343333;
 }
 
 header {
@@ -195,3 +195,4 @@ h2 {
     }
 
 }
+
